@@ -2,7 +2,7 @@
 
 Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of [kohya-ss](https://github.com/kohya-ss/sd-scripts) and [Linaqruf](https://github.com/Linaqruf/kohya-trainer).
 
-| 🌟 **XL Lora Trainer** | [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer_XL.ipynb) | - |
+| 🌟 **XL Lora Trainer** | [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/zetiuz/kohya-colab/blob/main/Lora_Trainer_XL.ipynb) | - |
 
 ### 🌟 XL Lora Trainer
 
